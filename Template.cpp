@@ -10,6 +10,6 @@ int main()
 	{
 		cout << q.Dequeue() << endl;
 	}
-+
+
 }
 
